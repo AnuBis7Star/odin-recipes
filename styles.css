@@ -1,0 +1,31 @@
+/* styles.css */
+
+.main {
+    font-family: "Georgia", sans-serif;
+}
+
+div {
+    color: white;
+    background-color: black;
+}
+
+body { 
+    background-color: #2C5D63;
+}
+
+h1 { /* Titles */
+    font-family: Copperplate;
+    color: #F7EEBB;
+    font-size: 32px;
+}
+
+h4{
+    color: #F7EEBB;
+    font-size: 18px;
+}
+
+li, a, p {
+    color: #A9C52F;
+}
+
+  
