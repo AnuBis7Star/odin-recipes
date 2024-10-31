@@ -17,15 +17,25 @@ h1 { /* Titles */
     font-family: Copperplate;
     color: #F7EEBB;
     font-size: 32px;
+    padding: 10px; /* To add space for the background */
+    border: 10px solid #A9C52F45;
+    margin-bottom: 40px; /* This is used to separate items*/
 }
 
 h4{
     color: #F7EEBB;
     font-size: 18px;
+    margin-bottom:-10px;
 }
 
 li, a, p {
     color: #A9C52F;
 }
 
+li {
+    line-height: 20px;
+}
+/* * {
+    outline: 1px solid red;
+} */
   
