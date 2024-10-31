@@ -1,12 +1,11 @@
 /* styles.css */
 
-.main {
-    font-family: "Georgia", sans-serif;
+* {
+    box-sizing: border-box;
 }
 
-div {
-    color: white;
-    background-color: black;
+.main {
+    font-family: "Georgia", sans-serif;
 }
 
 body { 
@@ -35,7 +34,14 @@ li, a, p {
 li {
     line-height: 20px;
 }
-/* * {
-    outline: 1px solid red;
-} */
-  
+
+.box-one {
+    width: 75px;
+    height: 75px;
+    background-color: #b8cd59;
+    margin-top: 50px;
+    margin-left: -47.5px;
+    border: 15px solid #6b7a2a;
+
+
+}
